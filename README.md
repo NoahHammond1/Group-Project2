@@ -53,5 +53,4 @@ We only had a single calculated field in our analysis, Arrest Rate. Arrest Rate 
 ## Analysis and Results
 
 ## Tableau Packaged Workbook
-![Employee Data Dictionary](DataDict_Employees.png)
-![Tableau Workbook](TableauWorkbook.twk)
+![Tableau Workbook](TableauWorkbook)
