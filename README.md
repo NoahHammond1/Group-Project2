@@ -38,3 +38,9 @@ Overall, this dataset provides a comprehensive view of hate crime incidents in N
 12. Offense Category (string/object): Broader grouping of offenses.
 13. Arrest Date (float64 / nullable): Date of arrest, if applicable.
 14. Arrest Id (string/object): Identifier for associated arrest, if any.
+
+### Question 1:
+How have hate crimes changed over time in the New York City Boroughs, and what are the biases that effect these changes?
+
+### Question 2: 
+By focusing on the top 3 biases and boroughs, how effective was law enforcement in terms of their response to these crimes?
