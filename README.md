@@ -46,3 +46,11 @@ How have hate crimes changed over time in the New York City Boroughs, and what a
 
 ### Question 2: 
 By focusing on the top 3 biases and boroughs, how effective was law enforcement in terms of their response to these crimes?
+
+## Manipulations Performed to the Data Set
+We only had a single calculated field in our analysis, Arrest Rate. Arrest Rate is calculated by taking the value from count(Arrest Id) and dividing it by count(Full Complaint ID). The reason we wanted to manipulate teh data to receive this value was to find a way to quantify the success rate of law enforcement for our second question. This value gives us the rate at which complaint cases are actually pursued compared to a case that is dropped. While a case may be dropped for a multitude of reasons, given the size of out data, this will still be a valuable insight into the success of law enforcement in New York City borroughs.
+
+## Analysis and Results
+
+## Tableau Packaged Workbook
+
