@@ -52,5 +52,12 @@ We only had a single calculated field in our analysis, Arrest Rate. Arrest Rate 
 
 ## Analysis and Results
 
+## Working Screenshots For Now
+(Screenshot 2026-04-28 160931.png)
+(Screenshot 2026-04-28 160939.png)
+(Screenshot 2026-04-28 160947.png)
+(Screenshot 2026-04-28 160955.png)
+(Screenshot 2026-04-28 161003.png)
+(Screenshot 2026-04-28 161012.png)
 ## Tableau Packaged Workbook
 https://outlookuga-my.sharepoint.com/:u:/r/personal/ngh29190_uga_edu/Documents/MIST%204610%20Group%20Project%202/GroupProject2.twbx?csf=1&web=1&e=EBG3Ql
